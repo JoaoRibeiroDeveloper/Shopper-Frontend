@@ -11,7 +11,7 @@ Eu sou o João e estarei contigo para apresentar o projeto **Frontend** com **Re
 Faça um clone deste repositório e instale no seu ambiente de desenvolvimento usando o seguinte comando no seu terminal (escolha um diretório apropriado):
 
 ```shell
-git clone https://github.com/JoaoRibeiroDeveloper/Shopper-Backend.git <NOME_PASTA>
+git clone https://github.com/JoaoRibeiroDeveloper/Shopper-Frontend.git <NOME_PASTA>
 ```
 
 ### 2 - Instale o Node.js/NPM
